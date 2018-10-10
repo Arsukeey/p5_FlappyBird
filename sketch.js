@@ -29,7 +29,7 @@ function draw() {
     bird.show();
     bird.update();
 
-    //  Spawn a new pipe every 100 frames
+    //  Spawn a new pipe every 70 frames
     if (frameCount % 70 == 0) {
         pipes.push(new Pipes());
     }
