@@ -1,7 +1,5 @@
 # FlappyBird on the p5 library
 
-##How to play:
+## How to play:
 
 Play space to jump.
-
-
