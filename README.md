@@ -2,4 +2,4 @@
 
 ## How to play:
 
-Play space to jump.
+Press space to jump.
